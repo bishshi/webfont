@@ -1,5 +1,6 @@
 @font-face {
   font-family: 'gkai';
   font-display: swap;
-  src: url('gkai.woff2') format("woff2");  
+  src: url('https://cdn.jsdmirror.com/gh/bishshi/webfont/gkai.woff2') format("woff2");  
 }
+
